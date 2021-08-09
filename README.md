@@ -1,5 +1,5 @@
 # Javascript Alert App
-โปรเจคเว็บแอพฯ จัดทำโดย (ชื่อ)
+โปรเจคเว็บแอพฯ จัดทำโดย (CHUENSUMON POLDOK)
 ## Features
 * List 1
 * List 2
