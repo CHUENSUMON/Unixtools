@@ -11,6 +11,6 @@
 </javascript>
 ```
 ## Credit
-myemail@gmail.com(https://gmail.com/)
+[myemail@gmail.com](https://gmail.com/)
 ## License
 MIT License
