@@ -1,5 +1,5 @@
 # Javascript Alert App
-โปรเจคเว็บแอพฯ จัดทำโดย (CHUENSUMON POLDOK)
+โปรเจคเว็บแอพฯ จัดทำโดย (ชื่อ)
 ## Features
 * List 1
 * List 2
@@ -11,6 +11,6 @@
 </javascript>
 ```
 ## Credit
-[myemail@gmail.com](https://gmail.com/)
+[myemail@gmail.com](https://gmail.com)
 ## License
 MIT License
